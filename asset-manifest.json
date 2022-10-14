@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fit-life/static/css/main.33371ddc.css",
+    "main.js": "/fit-life/static/js/main.e342f144.js",
+    "static/js/787.00e42dc3.chunk.js": "/fit-life/static/js/787.00e42dc3.chunk.js",
+    "static/media/Tahoma.ttf": "/fit-life/static/media/Tahoma.9aa1ad11fc907a509dc6.ttf",
+    "static/media/TahomaBold.ttf": "/fit-life/static/media/TahomaBold.9d58a73bdb0d147b0354.ttf",
+    "static/media/fitness.svg": "/fit-life/static/media/fitness.7af580b86d4cb724264d57de5c9ea5df.svg",
+    "static/media/list.svg": "/fit-life/static/media/list.123b88a14a08a4f8466ac95018d97ba3.svg",
+    "static/media/calculator.svg": "/fit-life/static/media/calculator.d73940d6801db401b094be58211f815c.svg",
+    "static/media/logo-2.svg": "/fit-life/static/media/logo-2.a2f0ed135bb98a5f87ca07382a81e811.svg",
+    "index.html": "/fit-life/index.html",
+    "static/media/arrow-right.svg": "/fit-life/static/media/arrow-right.ccde8d3e37091c108cb917c0ee5aa3f1.svg",
+    "static/media/arrow-back.svg": "/fit-life/static/media/arrow-back.e2ae14a6aecfc810b4a36b69187589cc.svg",
+    "main.33371ddc.css.map": "/fit-life/static/css/main.33371ddc.css.map",
+    "main.e342f144.js.map": "/fit-life/static/js/main.e342f144.js.map",
+    "787.00e42dc3.chunk.js.map": "/fit-life/static/js/787.00e42dc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33371ddc.css",
+    "static/js/main.e342f144.js"
+  ]
+}
